@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou Breno Schmidt! 👋
 
-<!--
-**brenoschmidt001/brenoschmidt001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Web | Estudante de ADS
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento web, tecnologia e inovação.
+
+Busco aprimorar meus conhecimentos em programação por meio de projetos práticos, criando soluções digitais funcionais, responsivas e acessíveis.
+
+Meu objetivo é evoluir profissionalmente na área de tecnologia e desenvolver sistemas que solucionem problemas reais.
+
+## 🛠️ Tecnologias e ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎓 Formação acadêmica
+
+- Análise e Desenvolvimento de Sistemas
+- Interesse em Desenvolvimento Web e Engenharia de Software
+
+## 📂 Projetos
+
+Neste perfil, compartilho meus projetos acadêmicos e pessoais, demonstrando minha evolução e meus conhecimentos em desenvolvimento de sistemas.
+
+[Conheça meus repositórios](https://github.com/brenoschmidt001?tab=repositories)
+
+## 📈 Objetivos profissionais
+
+- Aprimorar minhas habilidades em programação.
+- Desenvolver aplicações web responsivas.
+- Construir um portfólio de projetos acadêmicos e profissionais.
+- Aprender novas tecnologias e boas práticas de desenvolvimento.
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-schmidt-5b817b432/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenoschmidts52@gmail.com)
+
+📍 Brasília, DF - Brasil
+
+---
+
+⭐ Sempre em busca de novos conhecimentos e desafios na área de tecnologia.
